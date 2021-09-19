@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "libs/jsoup-1.13.1.jar",
+    "libs/twitter4j-core-4.0.7.jar"
+  ]
+}

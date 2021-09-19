@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: src.Spider
+Class-Path: libs\jsoup-1.13.1.jar libs\twitter4j-core-4.0.7.jar
